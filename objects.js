@@ -1,1 +1,1 @@
-var playlist = {countryroads};
+var playlist = new Object(infamous: "letitgo")
